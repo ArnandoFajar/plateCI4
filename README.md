@@ -2,7 +2,7 @@
 
 ## Fitur Apa saja didalamnya
 
-- Hermawan/Datatables
-- General Helper
-- Faker
-- Codeigniter Shield beta v 5
+1. Hermawan/Datatables
+1. General Helper
+1. Faker
+1. Codeigniter Shield beta v 5

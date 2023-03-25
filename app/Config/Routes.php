@@ -34,6 +34,8 @@ $routes->get('/', 'Home::index');
 //Customer
 $routes->resource('customer', ['controller' => 'Customers']);
 $routes->get('getcustomers', 'Customers::getCustomers');
+
+service('auth')->routes($routes);
 /*
  * --------------------------------------------------------------------
  * Additional Routing
