@@ -38,7 +38,7 @@ class Email extends BaseConfig
     /**
      * SMTP Password
      */
-    public string $SMTPPass = 'Gitgitfajar123';
+    public string $SMTPPass = '';
 
     /**
      * SMTP Port
